@@ -3,7 +3,7 @@
 - 🌱  I’m currently learning advanced techniques in deep learning .
 - 💞️  I’m looking to collaborate on projects related to predictive analytics, recommendation systems, and data-driven decision-making.
 - 📫  Feel free to reach out to me via email at aouatif.ziane887@gmail.com or connect with me on https://www.linkedin.com/in/aouatifziane/
-- ⚡ Fun fact: I'm an avid hiker and enjoy exploring new trails in my free time!
+- ⚡ Fun fact: ...................
 
 
 <!---
